@@ -1,8 +1,10 @@
 ## user information
-- Hi,I'm @Quema100
+- **name:@Quema100**
+- **discord name:Quema#0065**
+## YouTube
 - [[main youtube channel]](https://www.youtube.com/channel/UCfbvz7xPaOOxiAYqRhycQ2g)
 - [[another channel]](https://www.youtube.com/channel/UCZy0XbN2deR383WXn1CVCxw)
-- discord name:Quema#0065
+
 
 
 
