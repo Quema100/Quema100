@@ -1,8 +1,9 @@
 ## user information
+- **I'm not Developer**
 - **name:@Quema100**
 - **discord name:Quema#0065**
 - **[python,javascript]**
-- **I'm not Developer **
+
 ## YouTube
 - [[main youtube channel]](https://www.youtube.com/channel/UCfbvz7xPaOOxiAYqRhycQ2g)
 - [[another youtube channel]](https://www.youtube.com/channel/UCZy0XbN2deR383WXn1CVCxw)
