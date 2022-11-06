@@ -23,7 +23,7 @@ let information = {
 </a>
 <br/>
 
-## using language
+## using
 
 <a href="https://nodejs.org/en/docs/">
   <img src="https://img.shields.io/badge/node.js-181717?style=flat-square&logo=node.js&logoColor=white"/>
@@ -34,8 +34,11 @@ let information = {
 <a href="https://docs.python.org/3/">
   <img src="https://img.shields.io/badge/python-181717?style=flat-square&logo=python&logoColor=white">
 </a>
-<a href="https://discordpy-en.github.io/">
+<a href="https://discordpy.readthedocs.io/en/stable/index.html">
   <img src="https://img.shields.io/badge/discord.py-181717?style=flat-square&logo=discord&logoColor=white">
+</a>
+<a href="https://www.json.org/json-en.html">
+  <img src="https://img.shields.io/badge/json-181717?style=flat-square&logo=json&logoColor=white"/>
 </a>
 <br/>
 
