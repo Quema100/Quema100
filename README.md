@@ -7,12 +7,21 @@ let information = {
 }
 ``` 
 
-## YouTube
-   
-- [[main youtube channel]](https://www.youtube.com/channel/UCfbvz7xPaOOxiAYqRhycQ2g)
-- [[another youtube channel]](https://www.youtube.com/channel/UCZy0XbN2deR383WXn1CVCxw)
+## SNS
 
-
+<a href="https://github.com/quema100">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://discord.gg/SsSB7s6csZ">
+  <img src="https://img.shields.io/badge/Discord-181717?style=flat-square&logo=discord&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@Quema">
+  <img src="https://img.shields.io/badge/Main-181717?style=flat-square&logo=youtube&logoColor=white">
+</a>
+<a href="https://www.youtube.com/@Developer_Quema">
+  <img src="https://img.shields.io/badge/Another-181717?style=flat-square&logo=youtube&logoColor=white">
+</a>
+<br/>
 
 
 <!---
