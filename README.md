@@ -1,8 +1,11 @@
 ## user information
-- **I'm not Developer**
-- **name:@Quema100**
-- **discord name:Quema#0065**
-- **[python,javascript]**
+🐶 | **I'm noob Developer**
+
+🗣 | discord server: https://discord.gg/SsSB7s6csZ
+
+💻 | python,**javascript**
+
+👍 | learning javascript
 
 
 ## YouTube
