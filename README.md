@@ -25,17 +25,17 @@ let information = {
 
 ## using language
 
-<a href="https://github.com/quema100">
+<a href="https://nodejs.org/en/docs/">
   <img src="https://img.shields.io/badge/node.js-181717?style=flat-square&logo=node.js&logoColor=white"/>
 </a>
-<a href="https://discord.gg/SsSB7s6csZ">
+<a href="https://developer.mozilla.org/en/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/javascript-181717?style=flat-square&logo=javascript&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/@Quema">
+<a href="https://docs.python.org/3/">
   <img src="https://img.shields.io/badge/python-181717?style=flat-square&logo=python&logoColor=white">
 </a>
-<a href="https://www.youtube.com/@Developer_Quema">
-  <img src="https://img.shields.io/badge/discord-181717?style=flat-square&logo=html&logoColor=white">
+<a href="https://discordpy-en.github.io/">
+  <img src="https://img.shields.io/badge/discord.py-181717?style=flat-square&logo=discord&logoColor=white">
 </a>
 <br/>
 
