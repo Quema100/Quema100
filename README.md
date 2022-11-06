@@ -3,8 +3,7 @@ let information = {
    name : "Quema",
    language : ["python","javascript"],
    learn : "javascript",
-   Html:
-
+   Html: "is not programming language."
 }
 ``` 
 
