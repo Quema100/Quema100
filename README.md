@@ -23,6 +23,22 @@ let information = {
 </a>
 <br/>
 
+## using language
+
+<a href="https://github.com/quema100">
+  <img src="https://img.shields.io/badge/node.js-181717?style=flat-square&logo=node.js&logoColor=white"/>
+</a>
+<a href="https://discord.gg/SsSB7s6csZ">
+  <img src="https://img.shields.io/badge/javascript-181717?style=flat-square&logo=javascript&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@Quema">
+  <img src="https://img.shields.io/badge/python-181717?style=flat-square&logo=python&logoColor=white">
+</a>
+<a href="https://www.youtube.com/@Developer_Quema">
+  <img src="https://img.shields.io/badge/discord-181717?style=flat-square&logo=html&logoColor=white">
+</a>
+<br/>
+
 
 <!---
 Quema100/Quema100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
