@@ -1,9 +1,9 @@
 ```javascript
 let information = {
    name : "Quema",
-   language : ["python","javascript"],
+   job : "student",
    learn : "javascript",
-   Html: "is not programming language."
+   html: "is not programming language."
 }
 ``` 
 
