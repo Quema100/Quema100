@@ -1,12 +1,12 @@
-## user information
-🐶 | **I'm noob Developer**
+```javascript
+let information = {
+   name : "Quema",
+   language : ["python","javascript"],
+   learn : "javascript",
+   Html:
 
-🗣 | discord server: https://discord.gg/SsSB7s6csZ
-
-💻 | python,**javascript**
-
-👍 | learning javascript
-
+}
+``` 
 
 ## YouTube
    
