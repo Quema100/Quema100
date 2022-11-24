@@ -4,7 +4,7 @@ let information = {
    name : "Quema",
    job : "student",
    learn : "javascript",
-   html: "is not programming language."
+   html : "is not programming language."
 }
 ``` 
 
