@@ -7,7 +7,7 @@ let information = {
    html : "is not programming language."
 }
 ``` 
-<!---
+
 ## SNS
 
 <a href="https://github.com/quema100">
@@ -23,8 +23,8 @@ let information = {
   <img src="https://img.shields.io/badge/Another-181717?style=flat-square&logo=youtube&logoColor=white">
 </a>
 <br/>
----->
-## using language 
+
+## using language and tool
 
 <a href="https://nodejs.org/en/docs/">
   <img src="https://img.shields.io/badge/node.js-181717?style=flat-square&logo=node.js&logoColor=white"/>
