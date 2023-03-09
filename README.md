@@ -19,9 +19,6 @@ let information = {
 <a href="https://www.youtube.com/@Quema">
   <img src="https://img.shields.io/badge/Main-181717?style=flat-square&logo=youtube&logoColor=white">
 </a>
-<a href="https://www.youtube.com/@Developer_Quema">
-  <img src="https://img.shields.io/badge/Another-181717?style=flat-square&logo=youtube&logoColor=white">
-</a>
 <br/>
 
 ## using language and tool
