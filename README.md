@@ -11,8 +11,6 @@ let information = {
 
 ![Quema100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quema100&show_icons=true&theme=tokyonight)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quema100&repo=github-readme-stats)
-
 ![Quema100's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Quema100&theme=tokyonight&layout=compact)
 ## SNS
 
