@@ -7,9 +7,11 @@ let information = {
    html : "is not programming language."
 }
 ``` 
-## 
-![Quema100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quema&show_icons=true&theme=tokyonight)
-![Quema100's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Quema&theme=tokyonight&hide_border=true&layout=compact)
+## Quema100's GitHub
+![Quema100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quema100&show_icons=true&theme=tokyonight)
+
+
+![Quema100's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Quema100&theme=tokyonight&layout=compact)
 ## SNS
 
 <a href="https://github.com/quema100">
