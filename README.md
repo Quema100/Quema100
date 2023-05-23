@@ -9,10 +9,9 @@ let information = {
 ``` 
 ## Quema100's GitHub
 
-![Quema100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quema100&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Quema100&show_icons=true&theme=dark)
 
-
-![Quema100's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Quema100&theme=tokyonight&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Quema100&theme=dark&hide_border=false&layout=compact)
 ## SNS
 
 <a href="https://github.com/quema100">
