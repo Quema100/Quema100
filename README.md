@@ -27,22 +27,7 @@ let information = {
 
 ## using language and tool
 
-<a href="https://nodejs.org/en/docs/">
-  <img src="https://img.shields.io/badge/node.js-181717?style=flat-square&logo=node.js&logoColor=white"/>
-</a>
-<a href="https://developer.mozilla.org/en/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/javascript-181717?style=flat-square&logo=javascript&logoColor=white"/>
-</a>
-<a href="https://docs.python.org/3/">
-  <img src="https://img.shields.io/badge/python-181717?style=flat-square&logo=python&logoColor=white">
-</a>
-<a href="https://discordpy.readthedocs.io/en/stable/index.html">
-  <img src="https://img.shields.io/badge/discord.py-181717?style=flat-square&logo=discord&logoColor=white">
-</a>
-<a href="https://www.json.org/json-en.html">
-  <img src="https://img.shields.io/badge/json-181717?style=flat-square&logo=json&logoColor=white"/>
-</a>
-<br/>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,git,npm,nodejs,electron,react,express,html,css&includeNames=true&theme=darkmode)](https://github.com/Quema100/github-widgetbox)
 
 
 <!---
