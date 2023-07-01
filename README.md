@@ -25,7 +25,7 @@ let information = {
 </a>
 <br/>
 
-## using language and tool
+## Skill
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,git,npm,nodejs,electron,react,express,html,css&includeNames=true&theme=darkmode)](https://github.com/Quema100/github-widgetbox)
 
