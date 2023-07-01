@@ -27,7 +27,7 @@ let information = {
 
 ## Skill
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,git,npm,nodejs,electron,react,express,html,css,kotlin&includeNames=true&theme=darkmode)](https://github.com/Quema100/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,kotlin,git,nodejs,express,electron,react,html,css,npm&includeNames=true&theme=darkmode)](https://github.com/Quema100/github-widgetbox)
 
 
 <!---
