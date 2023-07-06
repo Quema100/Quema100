@@ -3,8 +3,9 @@
 let information = {
    name : "Quema",
    job : "student",
-   learn : "kotlin",
+   learn : "",
    html : "is not programming language."
+   kotlin: "fucking kotlin"
 }
 ``` 
 ## Quema100's GitHub
