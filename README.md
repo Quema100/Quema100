@@ -13,6 +13,11 @@ let information = {
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Quema100&show_icons=true&theme=dark)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Quema100&theme=dark&hide_border=false&layout=compact)
+
+## Skill
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,kotlin,nodejs,express,electron,react,html,css,git,npm&includeNames=true&theme=darkmode)](https://github.com/Quema100/Quema100)
+
 ## SNS
 
 <a href="https://github.com/quema100">
@@ -25,9 +30,6 @@ let information = {
   <img src="https://img.shields.io/badge/Main-181717?style=flat-square&logo=youtube&logoColor=white">
 </a>
 
-## Skill
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,kotlin,nodejs,express,electron,react,html,css,git,npm&includeNames=true&theme=darkmode)](https://github.com/Quema100/Quema100)
 
 
 <!---
