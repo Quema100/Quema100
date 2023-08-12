@@ -19,17 +19,25 @@ let information = {
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,kotlin,nodejs,express,electron,react,html,css,git,npm&includeNames=true&theme=darkmode)](https://github.com/Quema100/Quema100)
 
 ## SNS
-
-<a href="https://github.com/quema100">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="https://discord.gg/SsSB7s6csZ">
-  <img src="https://img.shields.io/badge/Discord-181717?style=flat-square&logo=discord&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@Quema">
-  <img src="https://img.shields.io/badge/Main-181717?style=flat-square&logo=youtube&logoColor=white">
-</a>
-
+<table>
+　　<tr>
+      <td>         
+         <a href="https://github.com/quema100">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+         </a>
+      </td>
+      <td>  
+         <a href="https://discord.gg/SsSB7s6csZ">
+           <img src="https://img.shields.io/badge/Discord-181717?style=flat-square&logo=discord&logoColor=white"/>
+         </a>
+      </td>
+      <td>  
+         <a href="https://www.youtube.com/@Quema">
+           <img src="https://img.shields.io/badge/Main-181717?style=flat-square&logo=youtube&logoColor=white">
+         </a>
+      </td>
+　　</tr>
+</table>
 
 
 <!---
