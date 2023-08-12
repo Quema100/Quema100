@@ -32,7 +32,7 @@ let information = {
          </a>
       </td>
       <td>  
-         <a href="https://www.youtube.com/@Quema">
+         <a href="https://youtube.com/@DevQuema">
            <img src="https://img.shields.io/badge/Main-181717?style=flat-square&logo=youtube&logoColor=white">
          </a>
       </td>
