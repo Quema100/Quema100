@@ -16,7 +16,7 @@ let information = {
 
 ## Skill
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,kotlin,nodejs,express,electron,react,html,css,git,npm&includeNames=true&theme=darkmode)](https://github.com/Quema100/Quema100)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,kotlin,nodejs,express,electron,react,html,css,git,npm,yarn&includeNames=true&theme=darkmode)](https://github.com/Quema100/Quema100)
 
 ## SNS
 <table>
