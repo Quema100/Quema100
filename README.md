@@ -4,7 +4,6 @@ let information = {
    name : "Quema",
    job : "student",
    learn : "",
-   html : "is not programming language.",
    kotlin: "fucking kotlin"
 }
 ``` 
