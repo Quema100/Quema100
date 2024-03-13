@@ -1,13 +1,16 @@
-## information 
+<h2  align="center">Information</h2>  
+   
 ```javascript
-let information = {
-   name : "Quema",
-   job : "student",
-   learn : "",
-   kotlin: "fucking kotlin"
-}
-``` 
-## Quema100's GitHub
+   let information = {
+      name : "Quema",
+      job : "student",
+      learn : "",
+      kotlin: "fucking kotlin"
+   }
+```
+   
+<h2  align="center">Quema100's GitHub</h2>  
+
 
 <div align="center">
 
@@ -18,12 +21,17 @@ let information = {
 
 </div>
 
-## Skill
+<h2  align="center">Skill</h2>  
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,kotlin,C,nodejs,express,electron,react,html,css,git,npm,yarn&includeNames=true&theme=darkmode)](https://github.com/Quema100/Quema100)
+<div align="center">
 
-## SNS
-<table>
+   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,kotlin,C,nodejs,express,electron,react,html,css,git,npm,yarn&includeNames=true&theme=darkmode)](https://github.com/Quema100/Quema100)
+
+</div>
+
+
+<h2 align="center">SNS</h2>
+<table align="center">
 　　<tr>
       <td>         
          <a href="https://github.com/quema100">
