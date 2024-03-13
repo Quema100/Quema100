@@ -9,9 +9,14 @@ let information = {
 ``` 
 ## Quema100's GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Quema100&show_icons=true&theme=dark)
+<div align="center">
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Quema100&theme=dark&hide_border=false&layout=compact)
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Quema100&show_icons=true&theme=dark)
+            
+   
+   ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Quema100&theme=dark&hide_border=false&layout=compact)
+
+</div>
 
 ## Skill
 
