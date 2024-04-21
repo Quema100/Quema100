@@ -39,12 +39,12 @@
          </a>
       </td>
       <td>  
-         <a href="https://discord.gg/SsSB7s6csZ">
+         <a href="#">
            <img src="https://img.shields.io/badge/Discord-181717?style=flat-square&logo=discord&logoColor=white"/>
          </a>
       </td>
       <td>  
-         <a href="https://youtube.com/@DevQuema">
+         <a href="#">
            <img src="https://img.shields.io/badge/Main-181717?style=flat-square&logo=youtube&logoColor=white">
          </a>
       </td>
