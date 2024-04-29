@@ -25,7 +25,7 @@
 
 <div align="center">
 
-   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,kotlin,C,nodejs,express,electron,react,html,css,git,npm,yarn&includeNames=true&theme=darkmode)](https://github.com/Quema100/Quema100)
+   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=javascript,python,kotlin,C,nodejs,express,electron,flask,react,html,css,git,npm,yarn&includeNames=true&theme=darkmode)](https://github.com/Quema100/Quema100)
 
 </div>
 
