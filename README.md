@@ -1,4 +1,4 @@
-### [portfolio site]([quema100.github.io/portfolio/](https://quema100.github.io/portfolio/#home))
+### [portfolio site](https://quema100.github.io/portfolio/)
 
 ## TODO
 
