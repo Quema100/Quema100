@@ -1,5 +1,3 @@
-### [portfolio site](https://quema100.github.io/portfolio/)
-
 ## TODO
 
 - Getting aroused by looking at code.
