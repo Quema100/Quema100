@@ -1,4 +1,73 @@
-## Hi there 👋
+# 👋 Hi there! I'm **Quema100**  
+<div>
+  <img src="https://komarev.com/ghpvc/?username=Quema100&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/Quema100?style=social" />
+  <img src="https://img.shields.io/github/stars/Quema100?style=social" />
+</div> 
+
+---
+
+## 🚀 About Me  
+
+I have a deep interest in the field of security, particularly in web hacking and penetration testing.  
+The programming language I mainly use is JavaScript, and I also utilize other languages to develop tools and software.  
+As a hobby, I enjoy coding and take pleasure in creating programs through programming.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Programming
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+</div>  
+
+### 🛠️ Tools & Frameworks  
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white" />
+  <img src="https://img.shields.io/badge/npx-00B8F4?style=flat&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" >
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
+</div>  
+
+---
+
+## 📈 GitHub Stats  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Quema100&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quema100&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Contact Me  
+
+🐦 **Instagram:** [archive_hs0x6](https://www.instagram.com/archive_hs0x6)  
+📘 **GitHub:** [Quema100](https://github.com/Quema100)  
+
+---
+
+⭐ **If you like my work, consider giving a star!** 😆   
 
 <!--
 **Quema100/Quema100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
