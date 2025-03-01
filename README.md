@@ -44,6 +44,11 @@ As a hobby, I enjoy coding and take pleasure in creating programs through progra
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord.py-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat?style=flat&logo=htmx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=htmx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij%20idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
 </div>  
 
 ---
