@@ -58,10 +58,10 @@ As a hobby, I enjoy coding and take pleasure in creating programs through progra
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Quema100&show_icons=true&theme=radical" />
+      <img angle="center" src="https://github-readme-stats.vercel.app/api?username=Quema100&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quema100&layout=compact&theme=radical" />
+      <img angle="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quema100&layout=compact&theme=radical" />
     </td>
   </tr>
 </table>
