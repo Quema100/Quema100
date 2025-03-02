@@ -38,7 +38,7 @@ As a hobby, I enjoy coding and take pleasure in creating programs through progra
   <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" >
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white" />
@@ -58,10 +58,10 @@ As a hobby, I enjoy coding and take pleasure in creating programs through progra
 <table>
   <tr>
     <td>
-      <img angle="center" src="https://github-readme-stats.vercel.app/api?username=Quema100&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Quema100&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img angle="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quema100&layout=compact&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quema100&layout=compact&theme=radical" />
     </td>
   </tr>
 </table>
