@@ -73,6 +73,10 @@ As a hobby, I enjoy coding and take pleasure in creating programs through progra
 🐦 **Instagram:** [h.s_0x6](https://www.instagram.com/h.s_0x6)  
 📘 **GitHub:** [Quema100](https://github.com/Quema100)  
 
+<a href="https://discord.com/users/1351904913726242857">
+  <img src="https://lanyard.cnrad.dev/api/1351904913726242857?showDisplayName=true&idleMessage=I'm not doing anything:(">
+</a>
+
 ---
 
 ⭐ **If you like my work, consider giving a star!** 😆   
