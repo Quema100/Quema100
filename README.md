@@ -74,7 +74,7 @@ As a hobby, I enjoy coding and take pleasure in creating programs through progra
 📘 **GitHub:** [Quema100](https://github.com/Quema100)  
 
 <a href="https://discord.com/users/1351904913726242857">
-  <img src="https://lanyard.cnrad.dev/api/1351904913726242857?showDisplayName=true&idleMessage=I'm not doing anything:(">
+  <img src="https://lanyard.cnrad.dev/api/1351904913726242857?showDisplayName=true&idleMessage=I'm%20not%20doing%20anything:(">
 </a>
 
 ---
