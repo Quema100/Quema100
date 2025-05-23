@@ -75,6 +75,7 @@ As a hobby, I enjoy coding and take pleasure in creating programs through progra
 
 🐦 **Instagram:** [h.s_0x6](https://www.instagram.com/h.s_0x6)  
 📘 **GitHub:** [Quema100](https://github.com/Quema100)  
+
 ---
 
 ⭐ **If you like my work, consider giving a star!** 😆   
