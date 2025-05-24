@@ -52,6 +52,7 @@ As a hobby, I enjoy coding and take pleasure in creating programs through progra
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij%20idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </div>  
 
 ---
