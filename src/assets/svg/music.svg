@@ -1,7 +1,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="450" height="120" viewBox="0 0 450 120">
   <rect width="100%" height="100%" rx="12" fill="#121212" />
-  <image href="https://i.scdn.co/image/ab67616d00001e02e0c4007daaad3c26ce9090e9" x="15" y="15" width="90" height="90" rx="10" />
+  <img aria-hidden="false" draggable="false" loading="lazy" src="https://i.scdn.co/image/ab67616d00001e02e0c4007daaad3c26ce9090e9" srcset="https://i.scdn.co/image/ab67616d00001e02e0c4007daaad3c26ce9090e9 150w, https://i.scdn.co/image/ab67616d00001e02e0c4007daaad3c26ce9090e9 300w, https://i.scdn.co/image/ab67616d0000b273e0c4007daaad3c26ce9090e9 320w, https://i.scdn.co/image/ab67616d0000b273e0c4007daaad3c26ce9090e9 640w" sizes="(min-width: 200px) 232px, 192px">
   <text x="120" y="50" fill="#ffffff" font-size="20" font-family="Arial" font-weight="bold">HELP!! Playlist</text>
   <text x="120" y="80" fill="#b3b3b3" font-size="16" font-family="Arial">by Spotify</text>
   <a href="https://open.spotify.com/playlist/2UlEILBr7hNa2iRpsKV1s6" target="_blank">
